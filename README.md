@@ -1,4 +1,4 @@
-# Terraform Local File Examples 🛠
+# Terraform Local File Examples 
 
 This repository demonstrates basic Terraform usage with the `local_file` and `random_pet` providers to create local text files.
 
